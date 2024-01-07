@@ -1,0 +1,14 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.hidden {
+  display: none;
+}
+
+.close-modal {
+  padding: 5px;
+  width: 100px;
+}
